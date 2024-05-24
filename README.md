@@ -1,6 +1,6 @@
 # PokemonAPI
 
-## Cara Menjalankan
+## How to Run
 
 Ikuti langkah-langkah berikut:
 
